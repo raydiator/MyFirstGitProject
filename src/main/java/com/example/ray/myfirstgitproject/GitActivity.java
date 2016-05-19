@@ -15,6 +15,6 @@ public class GitActivity extends AppCompatActivity {
 
         //new comment today
 
-        ///aaa
+        ///aaabc
     }
 }
