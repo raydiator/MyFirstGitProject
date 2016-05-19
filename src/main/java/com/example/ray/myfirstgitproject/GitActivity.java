@@ -11,5 +11,8 @@ public class GitActivity extends AppCompatActivity {
         setContentView(R.layout.activity_git);
         //my first git push!
         //my second
+        //and third
+
+        //new comment today
     }
 }
